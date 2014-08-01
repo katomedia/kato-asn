@@ -1,7 +1,8 @@
 <?php
 /**
  * Plugin Name: Kato ASN
- * Plugin URI: http://asn.kato.me
+ * Plugin URI: https://github.com/katomedia/kato-asn
+ * Git URI: https://github.com/katomedia/kato-asn
  * Description: Special functions for Kato ASN
  * Version: 0.0.1
  * Author: Leo J.
