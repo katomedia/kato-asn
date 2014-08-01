@@ -1,0 +1,3 @@
+#dashboard_right_now .notes-count a:before, #dashboard_right_now .notes-count span:before {content: "\f491";}
+#dashboard_right_now .subjects-count a:before, #dashboard_right_now .subjects-count span:before {content: "\f331";}
+#dashboard_right_now .courses-count a:before, #dashboard_right_now .courses-count span:before {content: "\f318";}
